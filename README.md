@@ -1,3 +1,3 @@
-###Live on Netlify
+### Live on Netlify
 
-https://buzznet-site.netlify.app/auth/login/
+https://buzznet-site.netlify.app/
